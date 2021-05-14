@@ -83,3 +83,10 @@ span.model-res-title{
      margin: 5px 0;
      text-align: center;
 }
+.modal-body a.social-a{
+     display: inline-block;
+     width: 30px;
+     height: 30px;
+     line-height: 30px;
+     color: blue;
+}
